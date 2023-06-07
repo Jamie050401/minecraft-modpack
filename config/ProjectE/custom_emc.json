@@ -1,4 +1,28 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "minecraft:furnace",
+      "emc": 8
+    },
+    {
+      "item": "projecte:alchemical_chest",
+      "emc": 8987
+    },
+    {
+      "item": "create:zinc_ingot",
+      "emc": 128
+    },
+    {
+      "item": "create:brass_ingot",
+      "emc": 128
+    },
+    {
+      "item": "draconicevolution:draconium_ingot",
+      "emc": 32768
+    },
+    {
+      "item": "draconicevolution:awakened_draconium_ingot",
+      "emc": 65536
+    }
+  ]
 }
