@@ -24,7 +24,10 @@
     "adjacentStopMode": "STOP_ALL"
   },
   "tools": {
-    "allowed": [],
+    "allowed": [
+      "draconicevolution:draconic_staff",
+      "draconicevolution:chaotic_staff"
+    ],
     "denied": [],
     "preserve": false,
     "ignoreTools": false,

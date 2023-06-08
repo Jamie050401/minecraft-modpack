@@ -23,6 +23,26 @@
     {
       "item": "draconicevolution:awakened_draconium_ingot",
       "emc": 65536
+    },
+	{
+	  "item": "projecte:transmutation_table",
+	  "emc": 10244
+	},
+    {
+      "item": "projecte:transmutation_tablet",
+      "emc": 2238472
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "solarpanels:spectral_solar_element",
+      "emc": 5000
+    },
+    {
+      "item": "solarpanels:photonic_solar_element",
+      "emc": 600000
     }
   ]
 }
